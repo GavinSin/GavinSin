@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gavin Sin</h1>
-<h3 align="center">A freelance web developer from Singapore</h3>
+<h1 align="center">Hi there 👋 I am Gavin !</h1>
+<h3 align="center">Freelance Web Developer, Certified Ethical Hacker, Security Analyst</h3>
 
 I have:
 
@@ -9,15 +9,15 @@ I have:
 
 - worked with company to implement [scalable cloud booking and POS solutions for multi-stores](https://gavinsin.com/scalable-cloud-booking-and-pos-solutions-for-multi-stores/)
 
-- 👨‍💻 All of my projects are available at [https://gavinsin.com/case-studies](https://gavinsin.com/case-studies)
+👨‍💻 All of my projects are available at [https://gavinsin.com/case-studies](https://gavinsin.com/case-studies)
 
-- 🌱 I’m currently learning **React, Typescript**
+🌱 I’m currently learning **React, Typescript**
 
-- 💬 Ask me about **Elementor, WordPress plugin**
+💬 Ask me about **Elementor, WordPress plugin**
 
-- 📫 How to reach me **admin@gavinsin.com**
+📫 Contact me at **me@gavinsin.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/gavin-sin-a02222196/](https://www.linkedin.com/in/gavin-sin-a02222196/)
+📄 Know about my experiences at [https://www.linkedin.com/in/gavin-sin-a02222196/](https://www.linkedin.com/in/gavin-sin-a02222196/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
