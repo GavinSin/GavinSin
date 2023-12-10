@@ -1,16 +1,13 @@
 <h1 align="center">Hi there 👋 I am Gavin !</h1>
 <h3 align="center">Freelance Web Developer, Certified Ethical Hacker, Security Analyst</h3>
 
-<!-- Achievements Section -->
-🌟 **Noteworthy Achievements:**
-- Boosted company calls by 3.5x while decreasing cost per conversion. [Details](https://gavinsin.com/increase-call-by-3-5x-and-decrease-cost-per-conversion/)
-- Successfully eliminated downtime and enhanced Google PageSpeed Score to 90%. [Details](https://gavinsin.com/eliminate-downtime-and-boost-google-pagespeed-score-to-90/)
-- Collaborated on implementing scalable cloud booking and POS solutions for multi-store businesses. [Details](https://gavinsin.com/scalable-cloud-booking-and-pos-solutions-for-multi-stores/)
-<br/>
-
 <!-- Projects Section -->
 👨‍💻 **Explore My Projects:**
-- Find case studies of my diverse projects at [gavinsin.com/case-studies](https://gavinsin.com/case-studies)
+| CodeIgniter Login With Google or Email | Automated Mail Sender with 2FA Authentication | Server-Client Cryptographic Communication | SP Games Store |
+|    :----:   |    :----:   |    :----:   |    :----:   |
+| ![CodeIgniter Login With Google or Email](portfolio_pic/login_with_google_or_email.png "CodeIgniter Login With Google or Email") | ![Automated Mail Sender with 2FA Authentication](portfolio_pic/gmail_oauth.png "Automated Mail Sender with 2FA Authentication") | ![Server-Client Cryptographic Communication](portfolio_pic/server_client_cryptography.png "Server-Client Cryptographic Communication") | ![SP Games Store](portfolio_pic/sp_games_store.png "SP Games Store") |
+| CodeIgniter with PHP | C# with .NET Framework | Python | Java with MVC model |
+
 <br/>
 
 <!-- Learning Section -->
@@ -37,6 +34,14 @@
 🥷 **Certifications:**
 - Formerly a penetration tester certified as **Certified Ethical Hacker [(CEH)](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/)** and **Organizational System Security Analyst [(OSSA)](https://securitystartshere.org/page-training-certprof.htm)**
 <br/>
+
+<!-- Achievements Section -->
+🌟 **Noteworthy Achievements:**
+- Boosted company calls by 3.5x while decreasing cost per conversion. [Details](https://gavinsin.com/increase-call-by-3-5x-and-decrease-cost-per-conversion/)
+- Successfully eliminated downtime and enhanced Google PageSpeed Score to 90%. [Details](https://gavinsin.com/eliminate-downtime-and-boost-google-pagespeed-score-to-90/)
+- Collaborated on implementing scalable cloud booking and POS solutions for multi-store businesses. [Details](https://gavinsin.com/scalable-cloud-booking-and-pos-solutions-for-multi-stores/)
+<br/>
+- Find case studies of my diverse projects at [gavinsin.com/case-studies](https://gavinsin.com/case-studies)
 
 <!-- Skills Section -->
 ## 🚀 **Languages, Frameworks & Tools:**
